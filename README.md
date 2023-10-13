@@ -1,5 +1,5 @@
 # E-commerce_DataAnalysis_SQL
-EDA and Order analysis of a E-commerce company's data using SQLEDA and Order analysis of a E-commerce company's data using SQL
+EDA and Order analysis of a E-commerce company's data using SQL EDA and Order analysis of a E-commerce company's data using SQL
 May 2023 - Jun 2023May 2023 - Jun 2023
 Target is one of the world’s most recognized brands and one of America’s leading retailers. Target makes itself a preferred shopping destination by offering outstanding value, inspiration, innovation and an exceptional guest experience that no other retailer can deliver.
 Data is available in 8 csv files:
